@@ -10,3 +10,5 @@ Once you have Node.js installed, follow these steps:
 4. Run npm start to start the development server.
 5. Open a web browser and navigate to http://localhost:3000 to view the app.
 
+deployed link : https://josh-quiz-jade.vercel.app/
+github repo : https://github.com/ishergill/joshQuiz
